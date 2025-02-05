@@ -1,1 +1,4 @@
-# django_react
+- [ ] kata_1 - init
+- [ ] kata_2 - clean boilerplate
+- [ ] kata_3 - frontend displays content of .json file
+- [ ] kata_4 - backend create 1 api endpoint, frontend renders contents of that endpoint
