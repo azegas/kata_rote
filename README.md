@@ -1,4 +1,4 @@
-- [ ] kata_01 - init all frameworks (back and front), return text only
+- [ ] kata_01 - init all frameworks (back and front), return text/json only
 - [ ] kata_02 - init all frameworks (back and front), read data from `backend/data.json` file
 - [ ] kata_03 - make it work with sqlite db, fetch only
 - [ ] kata_04 - play with query params, play with urls. Provide parameters and return something (search thingy) 

@@ -4,3 +4,5 @@
 - [ ] django
 - [ ] go
 - [ ] php
+- [ ] something to test out graphql
+- [ ] something to test out xml?
