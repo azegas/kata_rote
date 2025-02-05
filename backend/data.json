@@ -1,0 +1,16 @@
+{
+  "flowers": [
+    {
+      "type": "rose",
+      "color": "red"
+    },
+    {
+      "type": "tulip",
+      "color": "yellow"
+    },
+    {
+      "type": "orchid",
+      "color": "white"
+    }
+  ]
+}
